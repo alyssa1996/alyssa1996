@@ -1,5 +1,7 @@
 ### Hi there 👋
+#### I am a software developer from South Korea, Jisu Park!
 
+⚡ My first work with HTML, CSS and Javascript: https://kiwi.innolab.org
 <!--
 **alyssa1996/alyssa1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
