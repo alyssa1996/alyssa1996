@@ -1,6 +1,8 @@
 ### Hi there 👋
 #### I am a software developer from South Korea, Jisu Park!
 
+ 📫 How to reach me: alyssapark96@gmail.com
+
 
 <!--
 ⚡ My first work with HTML, CSS and Javascript: https://kiwi.innolab.org <br>
