@@ -3,7 +3,7 @@
 
 🤯 디버깅 참고 레퍼런스 LIST : https://www.notion.so/a-k-a-44b7ea1d6c2947da87eb5b03db5977f3 <br/>
 📚 기능 구현, 이론 공부 참고 레퍼런스 LIST : https://www.notion.so/a1738e0c347f496db79ebd45d95e0c6e <br/>
-⌨ 현재 진행중인 프로젝트 : http://getittest.shop/
+⌨ 현재 진행중인 프로젝트 : http://getit.best
 
 <!--
 ⚡ My first work with HTML, CSS and Javascript: https://kiwi.innolab.org <br>
